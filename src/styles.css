@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+.App {
+  text-align: left;
+  max-width: 600px;
+  margin: auto;
+  background-color: #efefef;
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  box-shadow: 0 0 50px white;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+body {
+  font-family: "Varela Round", sans-serif;
+  margin: 0rem;
+  background-image: url("/background-image/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.main-div {
+  padding: 2rem;
+}
+
+h1 {
+  margin-block-start: 0rem;
+}
+
+p {
+  font-size: small;
+}
+
+.category-btn {
+  cursor: pointer;
+  background: #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+  box-shadow: -3px 3px 5px gray;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+
+.food-list {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid black;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px black;
+  color: black;
+}
+
+.dish-name {
+  font-size: larger;
+}
+
+.dish-rating {
+  font-size: smaller;
+}
