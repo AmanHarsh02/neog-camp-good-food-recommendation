@@ -34,8 +34,8 @@ var foodDictionary = {
       rating: "5/5"
     },
     {
-      dishName: "Jodhpuri Kabuli, Inside City",
-      place: "Vijay Restaurant",
+      dishName: "Jodhpuri Kabuli",
+      place: "Vijay Restaurant, Inside City",
       rating: "5/5"
     }
   ]
