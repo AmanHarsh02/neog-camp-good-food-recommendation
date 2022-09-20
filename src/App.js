@@ -25,7 +25,16 @@ var foodDictionary = {
       place: "Chowdhay Namkeen, B-Road",
       rating: "4/5"
     },
-    { dishName: "Samosa", place: "Shahi Samosa, Sardar Market", rating: "4/5" }
+    {
+      dishName: "Samosa",
+      place: "Shahi Samosa, Sardar Market",
+      rating: "5/5"
+    },
+    {
+      dishName: "Kadhi Kachori",
+      place: "Ajmeri Kadhi Kachori, B-Road",
+      rating: "4/5"
+    }
   ],
   jodhpuriSpecial: [
     {
@@ -36,6 +45,11 @@ var foodDictionary = {
     {
       dishName: "Jodhpuri Kabuli",
       place: "Vijay Restaurant, Inside City",
+      rating: "5/5"
+    },
+    {
+      dishName: "Dal Bati Churma",
+      place: "Gypsy Restaurant, C-Road",
       rating: "5/5"
     }
   ]
